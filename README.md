@@ -1,5 +1,6 @@
-
 ![Screenshot 2024-01-30 205153](https://github.com/Debangshu200/react-food-app/assets/73153961/75331875-c38d-4c90-b0ba-96d7c489f6bb)
+![Screenshot 2024-01-30 205208](https://github.com/Debangshu200/react-food-app/assets/73153961/d0b351a0-91f9-41f2-9d8b-91231c082b8c)
+![Screenshot 2024-01-30 205219](https://github.com/Debangshu200/react-food-app/assets/73153961/397a562c-00ec-47f5-a5cf-52133dec0b26)
 
 # Getting Started with Create React App
 

@@ -1,6 +1,3 @@
-![Screenshot 2024-01-30 205153](https://github.com/Debangshu200/react-food-app/assets/73153961/75331875-c38d-4c90-b0ba-96d7c489f6bb)
-![Screenshot 2024-01-30 205208](https://github.com/Debangshu200/react-food-app/assets/73153961/d0b351a0-91f9-41f2-9d8b-91231c082b8c)
-![Screenshot 2024-01-30 205219](https://github.com/Debangshu200/react-food-app/assets/73153961/397a562c-00ec-47f5-a5cf-52133dec0b26)
 ![image](https://github.com/user-attachments/assets/b9dc8bb9-18c7-4253-8c2c-87a12bb92b49)
 ![image](https://github.com/user-attachments/assets/f357089c-9c58-40d3-9991-206c1bfde36e)
 ![image](https://github.com/user-attachments/assets/066bfbc2-1c39-4131-8d28-a09990e48fe6)
